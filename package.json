@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fetch": "^1.1.0",
+    "jssoup": "^0.0.15",
+    "node-fetch": "^3.2.10",
+    "node-fetch-cookies": "^2.0.4",
+    "superagent": "^8.0.0"
+  }
+}
